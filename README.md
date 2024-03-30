@@ -1,6 +1,6 @@
-HUMAN RESOURCES
+HUMAN RESOURCES DASHBAORD
 
-In this project, I analyzed a human resource dataset and presented my findings using Excel to build an interactive dashboard.
-
+This project is an analysis of a human resource dataset. My findings were presented using Excel to build an interactive dashboard.
+Here is a link to interact with the dashboard: 
 
 
