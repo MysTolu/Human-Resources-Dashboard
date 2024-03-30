@@ -1,4 +1,4 @@
-HUMAN RESOURCES DASHBAORD
+# HUMAN RESOURCES DASHBAORD
 
 This project is an analysis of a human resource dataset. My findings were presented using Excel to build an interactive dashboard.
 
